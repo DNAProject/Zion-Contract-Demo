@@ -1,1 +1,1 @@
-# Zion-NativeContract-Call-Demo
+# Zion-Contract-Demo
