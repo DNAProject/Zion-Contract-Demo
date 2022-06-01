@@ -3,7 +3,7 @@ const { RLP } = require("ethers/lib/utils");
 
 async function main() {
   // call maas config
-  // await callMaasConfig();
+  await callMaasConfig();
 
   // call node manager
   await callNodeManager();
